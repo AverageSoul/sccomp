@@ -1,0 +1,316 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/ComputerDesign/code/source/source/work
+valu
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 FTh^Lh]T2B[H?S:oGXhXi3
+Ih903oklk6dBO13O9cI^M41
+Z1 dE:/ComputerDesign/code/source/source/final
+w1717595666
+8E:/ComputerDesign/code/source/source/final/alu.v
+FE:/ComputerDesign/code/source/source/final/alu.v
+L0 3
+Z2 OL;L;10.5;63
+Z3 !s108 1717608598.000000
+!s107 ctrl_encode_def.v|E:/ComputerDesign/code/source/source/final/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vctrl
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Xieg^@RzcA=ZhAjo0<fld2
+I21C@Fn9N7]^H0T9d_<WAU2
+R1
+w1717598014
+8E:/ComputerDesign/code/source/source/final/ctrl.v
+FE:/ComputerDesign/code/source/source/final/ctrl.v
+L0 3
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/final/ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/ctrl.v|
+!i113 0
+R4
+R5
+vdm
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZKWb]O^HSQdD^F0^LRUS[3
+IH8We_;`:5b7D<cUo060=P2
+R1
+w1717605876
+8E:/ComputerDesign/code/source/source/final/dm.v
+FE:/ComputerDesign/code/source/source/final/dm.v
+L0 2
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/final/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/dm.v|
+!i113 0
+R4
+R5
+vEXT
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 d`GCF]Xe]JFP6O7KiSl;j1
+ISVn]C?W6TW7_W>=PVAC<h2
+R1
+w1571487706
+8E:/ComputerDesign/code/source/source/final/EXT.v
+FE:/ComputerDesign/code/source/source/final/EXT.v
+L0 2
+R2
+R3
+!s107 E:/ComputerDesign/code/source/source/final/EXT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/EXT.v|
+!i113 0
+R4
+R5
+n@e@x@t
+vim
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 U;JIL?DAR;UKk>XKgK4W72
+IN6KkfR<V8]U]ZU>_`HS^82
+R1
+w1551458228
+8E:/ComputerDesign/code/source/source/final/im.v
+FE:/ComputerDesign/code/source/source/final/im.v
+L0 3
+R2
+Z6 !s108 1717608599.000000
+!s107 E:/ComputerDesign/code/source/source/final/im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/im.v|
+!i113 0
+R4
+R5
+vmux16
+Z7 !s110 1717608599
+!i10b 1
+!s100 _kD]@DiV[:SJ[]_:lBKV[0
+I=<QWSjn[I]7fkS111JI8^0
+R0
+R1
+Z8 w1550765554
+Z9 8E:/ComputerDesign/code/source/source/final/mux.v
+Z10 FE:/ComputerDesign/code/source/source/final/mux.v
+L0 71
+R2
+r1
+!s85 0
+31
+R6
+Z11 !s107 E:/ComputerDesign/code/source/source/final/mux.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/mux.v|
+!i113 0
+R4
+R5
+vmux2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 QXC^TY7h[nMB8eh1LThKL1
+IQ?iZlz>2=3WbUd0S0c`WT1
+R1
+R8
+R9
+R10
+L0 2
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux4
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 3KQ[c;ZUY31^gKT9SAAk20
+I6h;V:=m`LJ5WMJeFiKTJG1
+R1
+R8
+R9
+R10
+L0 15
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux8
+R7
+!i10b 1
+!s100 FLg[0F=fBIb=LWfFP8G0M0
+IW<MoC;Vh0E@0nCH[0CU8K1
+R0
+R1
+R8
+R9
+R10
+L0 40
+R2
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vNPC
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 jANHcCgl^d?A>APgCK;]S1
+ImAG5E]hf6zb[gnn`c:Z[W2
+R1
+w1715828933
+8E:/ComputerDesign/code/source/source/final/NPC.v
+FE:/ComputerDesign/code/source/source/final/NPC.v
+L0 3
+R2
+R6
+!s107 ctrl_encode_def.v|E:/ComputerDesign/code/source/source/final/NPC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/NPC.v|
+!i113 0
+R4
+R5
+n@n@p@c
+vPC
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 lM7N@gR;4fMz]3L;mLgJ<2
+I40MVG1fR]a<kg<CmG@Kz70
+R1
+w1550113688
+8E:/ComputerDesign/code/source/source/final/PC.v
+FE:/ComputerDesign/code/source/source/final/PC.v
+L0 1
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/final/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/PC.v|
+!i113 0
+R4
+R5
+n@p@c
+vRF
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q:0oI6KPM3Xi=@[XFTJ0_1
+IFK2Tz3KGdS1c[645Ng3f]1
+R1
+w1716387391
+8E:/ComputerDesign/code/source/source/final/RF.v
+FE:/ComputerDesign/code/source/source/final/RF.v
+L0 2
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/final/RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/RF.v|
+!i113 0
+R4
+R5
+n@r@f
+vsccomp
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =BmO8QFoLQAjba`5canVP2
+IG<o1gY=3;59eOZN0eC64b2
+R1
+w1715875874
+8E:/ComputerDesign/code/source/source/final/sccomp.v
+FE:/ComputerDesign/code/source/source/final/sccomp.v
+L0 1
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/final/sccomp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/sccomp.v|
+!i113 0
+R4
+R5
+vsccomp_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @0JGleCf`QadzOY08XiIG1
+IQ@I6UeFo5<kFiK<?_D]R`1
+R1
+w1717609559
+8E:/ComputerDesign/code/source/source/final/sccomp_tb.v
+FE:/ComputerDesign/code/source/source/final/sccomp_tb.v
+L0 3
+R2
+!s108 1717609565.000000
+!s107 E:/ComputerDesign/code/source/source/final/sccomp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/sccomp_tb.v|
+!i113 0
+R4
+R5
+vsccpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 MRCP?>Jf4Zl3eJd?Xf<0b0
+IG?9bTziHaFF^mAJPf;5nJ3
+R1
+w1717593553
+8E:/ComputerDesign/code/source/source/final/sccpu.v
+FE:/ComputerDesign/code/source/source/final/sccpu.v
+L0 1
+R2
+R6
+!s107 E:/ComputerDesign/code/source/source/final/sccpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/ComputerDesign/code/source/source/final/sccpu.v|
+!i113 0
+R4
+R5
